@@ -1,0 +1,10 @@
+1;hello world 
+19;caesar cipher 
+15;for this problem you need to implement a program to break the caesar ciphers used to generate the ciphertexts from a given input file 
+6;the csumb community is committed to creating and fostering a positive learning and working environment based on open communication mutual respect and inclusion 
+22;secret key could be a number a word a string or a secret 
+3;cryptography studies the ability to send information between participants in a way that prevents other from reading it 
+26;this message does not need to be decrypted 
+16;a brute force attack tries all possible keys on some ciphertext until an intelligible translation into plaintext is obtained 
+12;cryptanalytic attacks try to exploit the characteristics of the algorithm to attempt to deduce a specific plaintext or the key being used 
+5;secret key cryptography is also referred as symmetric or conventional cryptography
